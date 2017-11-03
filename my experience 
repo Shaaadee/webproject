@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Mon Premier Site Web </title>
+	<link rel="stylesheet" href="myexperience.css">
+
+	
+</head>
+
+<body>
+
+		<h1>Mon Premier Site Web</h1>
+
+	
+	<header id="masthead" class="site-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+		<div class="header-wrap" style="position: relative; z-index: 0; background: none;">
+			<div class="header-inside">
+				<div class="navigation-wrap clearfix">
+					<div class="hgroup">
+						<div class="site-title-wrap">
+							<p class="logo-image" itemscope="" itemtype="http://schema.org/Organization"> 
+								<a title="Shade Experience"> 
+	<img src="http://sage-wordpress-source.s3-eu-west-1.amazonaws.com/sageone-france-wordpress/wp-content/uploads/2016/06/laptop-593673_1920.jpg" class = "homeimage">
+
+
+	<div class="navigation-toggle"> 
+		<nav role="navigation" class="site-navigation main-small-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement" aria-label="Main navigation">
+			<div class="menu-toggle">
+				<i class="fa fa-bars">
+				</i> Menu</div>
+				<div class="assistive-text skip-link">
+					<a href="#content">Actualités</a>
+				</div>
+				<div class="menu-top-navigation-wp-marmite-container">
+					<ul id="menu-top-navigation-wp-marmite" class="menu">
+						<li id="menu-item-10674" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-10674">
+							<a title="Dégustez les derniers articles">
+								Blog</a>
+							<ul class="sub-menu" style="margin-left: -100px;">
+								<li id="menu-item-14885" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-14885">
+									<a href="https://wpmarmite.com/tuto-wordpress/">Tutoriels</a>
+								</li>
+								<li id="menu-item-14883" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14883">
+									<a href="https://wpmarmite.com/themes-wordpress/">
+										Thèmes
+									</a>
+								</li>
+								<li id="menu-item-14884" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14884">
+									<a href="https://wpmarmite.com/plugins-wordpress/">
+										Plugins
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li id="menu-item-17828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17828">
+							<a href="https://wpmarmite.com/snippets/">
+								A propos
+							</a>
+						</li>
+						<li id="menu-item-14969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14969">
+							<a href="https://wpmarmite.com/formation-wordpress/">
+								Mes Formateurs
+						</a>
+					</li>
+					<li id="menu-item-14827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14827">
+						<a href="https://wpmarmite.com/ressources-wordpress/"
+						>Ressources
+					</a>
+				</li>
+				<li id="menu-item-16544" class="guides-wp menu-item menu-item-type-post_type menu-item-object-page menu-item-16544">
+					<a href="https://wpmarmite.com/guides/">
+						Autres
+					</a>
+				</li>
+			</ul>
+		</div> 
+	</nav>
+</div>
+</div>
+</div>
+<div class="hero-title animated fadeIn">
+</div>
+</div>
+<div class="backstretch" style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 117px; width: 211px; z-index: -999998; position: absolute;">
+	</div>
+</div> </header>
+	<img src="http://www.takepart.com/sites/default/files/styles/large/public/182465097.jpg">
+
+	  <h1>Petite présentation...</h1>
+	  <p>Promo La Brigade à l'Efap</p>
+	  <p> ICI C'EST PARIS FULL TIME <p>
+	 <img src="http://sage-wordpress-source.s3-eu-west-1.amazonaws.com/sageone-france-wordpress/wp-content/uploads/2016/06/laptop-593673_1920.jpg">
+<body>
+</html>
